@@ -11,6 +11,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://Jhess-tech-ai/JSON.git"
 	}
 }
